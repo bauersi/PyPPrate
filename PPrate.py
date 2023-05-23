@@ -1,4 +1,4 @@
-#Passive, PPD-based capacity estimation tool implemented in Python based on the PPrate algortithm introduced by Taoufik En-Najjary and Taoufik En-Najjary [1]
+#Passive, PPD-based capacity estimation tool implemented in Python based on the PPrate algortithm introduced by Taoufik En-Najjary and Guillaume Urvoy-Keller [1]
 # as used for our paper "On the Accuracy of Active Capacity Estimation in the Internet" [2] 
 
 # Implementation by Patryk Brzoza, Janluka Janelidze, Simon Bauer, and Benedikt Jaeger. 
